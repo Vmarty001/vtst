@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc4c6c4d.css",
+    "main.js": "/static/js/main.f51bae1b.js",
+    "static/media/2023-11-10 23.55.10.jpg": "/static/media/2023-11-10 23.55.10.1cbcb7ac3588f9687ad9.jpg",
+    "static/media/2023-11-10 23.55.15.jpg": "/static/media/2023-11-10 23.55.15.e76db64e8a3c97d5fecf.jpg",
+    "static/media/2023-11-10 23.55.38.jpg": "/static/media/2023-11-10 23.55.38.9a9df8a7cd393fdf6e2d.jpg",
+    "static/media/2023-11-10 23.55.33.jpg": "/static/media/2023-11-10 23.55.33.176a0ebbf993b19b0df5.jpg",
+    "static/media/vmaylogo2.png": "/static/media/vmaylogo2.8c611ea2dea0b6a14f6f.png",
+    "static/media/2023-11-10 23.55.23.jpg": "/static/media/2023-11-10 23.55.23.e966e383fb9e822e198a.jpg",
+    "static/media/2023-11-10 23.55.27.jpg": "/static/media/2023-11-10 23.55.27.4e557672b7cd6457afc2.jpg",
+    "static/media/2023-11-10 23.55.19.jpg": "/static/media/2023-11-10 23.55.19.a4c869e28c8c334f97c7.jpg",
+    "static/media/pinknike.jpg": "/static/media/pinknike.f0b3c75036aef07384c8.jpg",
+    "index.html": "/index.html",
+    "main.cc4c6c4d.css.map": "/static/css/main.cc4c6c4d.css.map",
+    "main.f51bae1b.js.map": "/static/js/main.f51bae1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4c6c4d.css",
+    "static/js/main.f51bae1b.js"
+  ]
+}
